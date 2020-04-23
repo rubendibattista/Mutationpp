@@ -26,7 +26,6 @@
 #include <Eigen/Dense>
 
 using namespace Mutation;
-using namespace Catch;
 using namespace Eigen;
 
 TEST_CASE("Solution of the MassEnergyBalanceSolver is converged.", "[gsi]")

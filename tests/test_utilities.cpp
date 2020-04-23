@@ -26,7 +26,6 @@
 using namespace Mutation;
 using namespace Mutation::Utilities;
 using namespace Mutation::Utilities::IO;
-using namespace Catch;
 using namespace Eigen;
 
 typedef Matrix<double,7,1> Dimension;

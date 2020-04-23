@@ -26,7 +26,6 @@
 #include <catch.hpp>
 
 using namespace Mutation;
-using namespace Catch;
 
 
 TEST_CASE(

@@ -31,7 +31,6 @@ using namespace Mutation::Thermodynamics;
 using namespace Mutation::Kinetics;
 using namespace Mutation::Utilities::Config;
 using namespace Mutation::Utilities::IO;
-using namespace Catch;
 
 /**
  * @brief Hard-coded reaction mechanism used for testing.

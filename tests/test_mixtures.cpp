@@ -25,7 +25,6 @@
 
 #include <memory>
 
-using namespace Catch;
 using namespace Mutation;
 
 // Make sure mixture options are set correctly

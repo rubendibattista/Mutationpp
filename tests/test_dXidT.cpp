@@ -32,7 +32,6 @@
 #include <Eigen/Dense>
 
 using namespace Mutation;
-using namespace Catch;
 using namespace Eigen;
 
 

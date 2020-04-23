@@ -25,7 +25,6 @@
 using namespace Mutation;
 using namespace Mutation::Kinetics;
 using namespace Mutation::Utilities::IO;
-using namespace Catch;
 
 void checkReactionType(const std::string& formula, ReactionType type)
 {

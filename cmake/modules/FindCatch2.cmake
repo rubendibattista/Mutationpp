@@ -12,13 +12,13 @@
 #
 # ::
 #
-#   Catch2_FOUND - set to true if a library implementing the BLAS interface
+#   Catch2_FOUND - set to true if Catch2 is found
 #     is found
 #
 #   Catch2_INCLUDE_DIRS - the directory containing the Catch2 header files
 #
 # 
-# To give an hint for the directory to look for the user must set Catch23_DIR
+# To give an hint for the directory to look for the user must set Catch2_DIR
 #
 #
 # Author: Ruben Di Battista <rubendibattista@gmail.com>

@@ -26,7 +26,6 @@
 #include <Eigen/Dense>
 
 using namespace Mutation;
-using namespace Catch;
 using namespace Eigen;
 
 TEST_CASE("Surface chemical rates compared with analytical solution.", "[gsi]")

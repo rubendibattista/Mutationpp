@@ -28,7 +28,6 @@ using namespace Mutation::Thermodynamics;
 using namespace Mutation::Transport;
 using namespace Mutation::Utilities;
 using namespace Mutation::Utilities::IO;
-using namespace Catch;
 using namespace Eigen;
 
 /**

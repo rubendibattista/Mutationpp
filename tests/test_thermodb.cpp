@@ -27,7 +27,6 @@
 
 using namespace Mutation;
 using namespace Mutation::Thermodynamics;
-using namespace Catch;
 using namespace Eigen;
 
 /**

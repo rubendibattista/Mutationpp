@@ -23,7 +23,6 @@
 #include <catch.hpp>
 
 using namespace Mutation;
-using namespace Catch;
 
 /**
  * Runs basic tests on the initialization and use of the Mutation++ exception

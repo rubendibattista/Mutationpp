@@ -186,7 +186,8 @@ endif()
 ###############################################################################
 
 # Eigen
-find_package(Eigen3)
+find_package(Eigen3 REQUIRED)
+
 
 
 ###############################################################################
@@ -211,7 +212,7 @@ add_subdirectory(src)
 option(ENABLE_TESTING "Enable regression testing with CTest" OFF)
 
 if (ENABLE_TESTING OR ENABLE_COVERAGE)
-    find_package(Catch2)
+    find_package(Catch2 REQUIRED)
     enable_testing()
     add_subdirectory(tests)
     add_subdirectory(examples)

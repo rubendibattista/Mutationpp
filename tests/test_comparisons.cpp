@@ -28,7 +28,6 @@
 #include <string>
 #include <Eigen/Dense>
 
-using namespace Catch;
 using namespace Mutation;
 
 
